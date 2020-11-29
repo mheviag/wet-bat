@@ -7,8 +7,8 @@ WET BAT World Adventure - Launchcode Challenge
 2. Install Node.js
 3. Install PostgreSQL
 4. In PostrgreSQL:
-  4.1. Run the script to create the DB and tables from /server/database.sql
-  4.2. Run the script to add sample data from /server/data.sql
+4.1. Run the script to create the DB and tables from /server/database.sql
+4.2. Run the script to add sample data from /server/data.sql
 5. Change the configuration database values on /server/db.js (username and password)
 6. Open the application in VSCode
 7. Open another terminal and type "cd client"
