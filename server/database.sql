@@ -1,5 +1,7 @@
 CREATE DATABASE wetbat;
 
+\c wetbat
+
 CREATE TABLE airport(
     id SERIAL PRIMARY KEY,
     city VARCHAR(100),
