@@ -1,5 +1,5 @@
 export default class Config{
 
-    url = "https://wet-bat-backend.herokuapp.com/";
+    url = "https://localhost:5000/";
 
 }
